@@ -1,7 +1,5 @@
 {
-	"prettier.documentSelectors": [
-		"**/*.svelte"
-	],
+	"prettier.documentSelectors": ["**/*.svelte"],
 	"tailwindCSS.classAttributes": [
 		"class",
 		"accent",
@@ -117,9 +115,7 @@
 		"width",
 		"zIndex"
 	],
-	"cSpell.words": [
-		"Todos"
-	],
+	"cSpell.words": ["Todos"],
 	"liveServer.settings.multiRootWorkspaceName": "frontend",
 	"liveServer.settings.port": 5174
 }
